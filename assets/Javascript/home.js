@@ -1,0 +1,1 @@
+console.log("static files are working")
